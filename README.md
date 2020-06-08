@@ -1,3 +1,3 @@
 # Vid-Processing
 
-Scrpits to process data
+Scrpits to process videos.
