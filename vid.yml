@@ -1,0 +1,12 @@
+name: vid
+ 
+dependencies:
+    - python=3.7
+    - pip>=19.0
+    - git>=2.20.1
+    - jupyter
+    - ffmpeg
+    - ffprobe
+    - pip:
+        - ffprobe-python
+	- ffmpeg-python
